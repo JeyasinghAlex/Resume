@@ -117,7 +117,7 @@ body {
 }
 
 .resume .resume_left .resume_skills ul li .skill_name {
-  width: 25%;
+  width: 40%;
 }
 
 .resume .resume_left .resume_skills ul li .skill_progress {
@@ -140,8 +140,12 @@ body {
   background: #fff;
 }
 
-.resume .resume_left .resume_social .semi-bold {
+/*.resume .resume_left .resume_social .semi-bold {
   color: #fff;
+  margin-bottom: 3px;
+}*/
+.resume .resume_left .resume_social .semi-bold {
+  color:  #b1eaff;
   margin-bottom: 3px;
 }
 
